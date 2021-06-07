@@ -1,0 +1,4 @@
+notebooks/config.ini
+notebooks/logs.log
+notebooks/catboost_info
+.vscode
