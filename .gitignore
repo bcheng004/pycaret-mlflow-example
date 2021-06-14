@@ -1,3 +1,5 @@
 notebooks/logs.log
 notebooks/catboost_info
 .vscode
+notebooks/config.ini
+notebooks/.ipynb_checkpoints
